@@ -14,4 +14,4 @@
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
 git clone https://github.com/CHN-beta/xmurp-ua.git package/xmurp-ua
 git clone https://github.com/CHN-beta/rkp-ipid.git package/rkp-ipid
-git clone https://github.com/mchome/openwrt-dogcom.git package/dogcom
+git clone https://github.com/mchome/openwrt-dogcom.git package/luci-app-dogcom
