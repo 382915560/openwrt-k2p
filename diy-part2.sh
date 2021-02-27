@@ -15,4 +15,4 @@
 git clone https://github.com/CHN-beta/xmurp-ua.git package/xmurp-ua
 git clone https://github.com/CHN-beta/rkp-ipid.git package/rkp-ipid
 git clone https://github.com/mchome/openwrt-dogcom package/luci-app-dogcom
-git clone https://github.com/mchome/luci-app-dogcom/releases/tag/v1.0.2.git package/luci-app-dogcom_1.0.2-1_all
+git clone https://github.com/mchome/luci-app-dogcom/releases/tag/v1.0.2 package/luci-app-dogcom
